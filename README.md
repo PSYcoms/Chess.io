@@ -1,3 +1,4 @@
-# React chess
+# Chess.io
 
-Starter code for the tutorial of building a chess application with react
+
+Chess ♖ game using react, rxjs and react drag and drop
